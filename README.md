@@ -19,7 +19,6 @@ Dive into advanced topics such as process synchronization, deadlock prevention, 
 ### Lab6: Summary Work
 
 Summarize and integrate knowledge gained from previous labs, applying concepts to real-world scenarios.\
-Each lab is structured to build upon the knowledge and skills acquired from preceding labs, providing a comprehensive exploration of OS principles and practical applications.
 
 # Prerequisites
 Access to an Ubuntu environment (physical or virtual machine).\
