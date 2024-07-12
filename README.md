@@ -18,11 +18,11 @@ Implement programs that involve process creation, management, and inter-process 
 Dive into advanced topics such as process synchronization, deadlock prevention, and handling concurrency.
 ### Lab6: Summary Work
 
-Summarize and integrate knowledge gained from previous labs, applying concepts to real-world scenarios.
+Summarize and integrate knowledge gained from previous labs, applying concepts to real-world scenarios.\
 Each lab is structured to build upon the knowledge and skills acquired from preceding labs, providing a comprehensive exploration of OS principles and practical applications.
 
 # Prerequisites
-Access to an Ubuntu environment (physical or virtual machine).
+Access to an Ubuntu environment (physical or virtual machine).\
 Basic understanding of Linux command-line operations.
 # License
 Free for personal and non-commercial use. Redistribution or use in academic submissions is prohibited without prior permission.
