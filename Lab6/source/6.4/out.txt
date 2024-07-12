@@ -1,0 +1,14 @@
+6.4.1
+6.4.1.c
+6.4.2
+6.4.2.c
+6.4.3
+6.4.3.c
+dup2_example
+dup2_example.c
+exec_example
+exec_example.c
+file.txt
+out.txt
+pipe_example
+pipe_example.c
