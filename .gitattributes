@@ -1,9 +1,5 @@
-# Ensure Shell scripts are detected
+# Ensure Shell scripts are detected as Shell
 *.sh linguist-language=Shell
 
-# Ensure C source files are detected
+# Ensure C source files are detected as C
 *.c linguist-language=C
-
-# Exclude HTML files from language detection if you have any
-*.html linguist-detectable=false
-
