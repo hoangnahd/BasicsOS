@@ -23,5 +23,3 @@ Summarize and integrate knowledge gained from previous labs, applying concepts t
 # Prerequisites
 Access to an Ubuntu environment (physical or virtual machine).\
 Basic understanding of Linux command-line operations.
-# License
-Free for personal and non-commercial use. Redistribution or use in academic submissions is prohibited without prior permission.
